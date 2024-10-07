@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%23FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=OLÁ👋,+MEU+NOME+É+FÁBIO+AUGUSTO)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%23FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+MEU+NOME+É+FÁBIO+AUGUSTO)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=FabioPYAug&show_icons=true&count_private=true&hide_border=false&title_color=808080&icon_color=808080&text_color=808080&bg_color=FFFFFF&border_radius=5&border=1&border_color=808080" alt="Fábio Augusto github stats" /> 
