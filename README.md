@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%23FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+SEJA+BEM+VINDO)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%23FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+SEJA+BEM+VINDO+:D&duration=5000)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=FabioPYAug&show_icons=true&count_private=true&hide_border=false&title_color=808080&icon_color=808080&text_color=808080&bg_color=FFFFFF&border_radius=5&border=1&border_color=808080" alt="Fábio Augusto github stats" /> 
@@ -19,5 +19,7 @@
 ### ESTUDANDO:
 ![Django](https://img.shields.io/badge/-Django-FFFFFF?style=for-the-badge&logo=django&logoColor=44B78B&labelColor=FFFFFF)
 ![Laravel](https://img.shields.io/badge/-Laravel-FFFFFF?style=for-the-badge&logo=laravel&logoColor=FF2D20&labelColor=FFFFFF)
+![Node.js](https://img.shields.io/badge/-Node.js-FFFFFF?style=for-the-badge&logo=nodedotjs&logoColor=339933&labelColor=FFFFFF)
+![React](https://img.shields.io/badge/-React-FFFFFF?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=FFFFFF)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=120&section=footer"/>
