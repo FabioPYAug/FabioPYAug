@@ -18,5 +18,6 @@
 
 ### ESTUDANDO:
 ![Django](https://img.shields.io/badge/-Django-FFFFFF?style=for-the-badge&logo=django&logoColor=44B78B&labelColor=FFFFFF)
+![Laravel](https://img.shields.io/badge/-Laravel-FFFFFF?style=for-the-badge&logo=laravel&logoColor=FF2D20&labelColor=FFFFFF)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=120&section=footer"/>
